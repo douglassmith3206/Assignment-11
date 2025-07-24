@@ -1,19 +1,3 @@
-@charset "UTF-8";
-
-
-/* form styling */
-
-
-#wrapper {
-	width: 60%;
-	margin-left:4%;
-}
-
-div#formcol1 {
-	float:left;	
-	width: 100%;
-}
-
 label {
 	margin-right: .3em;
 	width: 6.3em;  /* I made this deliberately wide – come up with your own optimal width */
@@ -27,7 +11,3 @@ To remove the bullet points, we set list style to none:
 #formcol1 li {   
 	list-style:none;
 }
-
-
-/* end of form css */
-	
