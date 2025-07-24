@@ -11,3 +11,8 @@ To remove the bullet points, we set list style to none:
 #formcol1 li {   
 	list-style:none;
 }
+/* we place the id formcol1 in front of the li element in order to limit this formatting to the top part of the form */
+
+#formcol1 li {   
+	list-style:none;
+}
